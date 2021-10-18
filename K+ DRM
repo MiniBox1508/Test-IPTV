@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV", VTV1 HD [K+]
+#EXTINF:-1 tvg-id="k+sport1hd" tvg-name="K+ Sport 1" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT1%20HD.png&w=380" group-title="K+",K+ SPORT 1 HD
 #EXTVLCOPT:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000005
+#EXTVLCOPT:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=B2ECA17235F536FD&Ticket=D037CC53FC0F7AD0
 #EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
-https://ottlivevng.kplus.vn/live/prod_vtv1_hd_fps/prod_vtv1_hd_fps.isml/prod_vtv1_hd_fps.mpd
+ https://kpluslive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KKIDS%20HD.png&w=267" group-title="K+",K+KIDS HD
+#EXTINF:-1 tvg-id="k+kidshd" tvg-name="K+ Kids" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KKIDS%20HD.png&w=380" group-title="K+",K+ KIDS HD
 #EXTVLCOPT:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
 #EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
-https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
+ https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
